@@ -2,6 +2,7 @@ package sunlight
 
 import (
 	"bytes"
+	"golang.org/x/net/idna"
 	"crypto/rsa"
 	"crypto/sha256"
 	"crypto/x509"
