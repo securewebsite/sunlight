@@ -2,7 +2,6 @@ package sunlight
 
 import (
 	"bytes"
-	"code.google.com/p/go.net/idna"
 	"crypto/rsa"
 	"crypto/sha256"
 	"crypto/x509"
